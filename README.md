@@ -1,4 +1,4 @@
-# Tour O fHeroes Tutorial
+# Tour Of Heroes Tutorial
 
 Introduction to the Angular framework
 Tour Of Heroes Tutorial availible in the getting started section of angular.io
